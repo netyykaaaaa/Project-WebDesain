@@ -5,6 +5,11 @@
   <body>
   <h2>Sejarah Java</h2>
   <p>Java dikembangkan pada tahun 1990 oleh insinyur Sun, James Gosling sebagai bahasa pemrograman yang berperan sebagai 
-  otak untuk peralatan pintar (TV interaktif, oven serba bisa).</p>
+ <p> otak untuk peralatan pintar (TV interaktif, oven serba bisa).</p>
+Java adalah bahasa pemrograman yang dapat dijalankan di berbagai komputer termasuk telepon genggam. Bahasa ini awalnya dibuat oleh J
+ames Gosling saat masih bergabung di Sun Microsystems, yang saat ini merupakan bagian dari Oracle dan dirilis tahun 1995. Bahasa ini 
+banyak mengadopsi sintaksis yang terdapat pada C dan C++ namun dengan sintaksis model objek yang lebih sederhana serta dukungan rutin-rutin
+aras bawah yang minimal. Aplikasi-aplikasi berbasis java umumnya dikompilasi ke dalam p-code (bytecode) dan dapat dijalankan pada berbagai
+Mesin Virtual Java (JVM).</p>
   </body>
   <html>
